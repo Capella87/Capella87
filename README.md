@@ -7,16 +7,16 @@
 <p float="left">
     <img src="https://img.shields.io/badge/dotnet-239120?style=for-the-badge&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenCL-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/ASP.NET Core-239120?style=for-the-badge&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/ASP.NET-239120?style=for-the-badge&logo=dotnet&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=OpenJDK&logoColor=white">
 </p>
 
 ## Tools
