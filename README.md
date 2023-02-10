@@ -31,3 +31,7 @@
     <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white">
 </p>
+
+---
+
+### Соборна українська є держава – Одна на вік, від Сяну по Кавказ!
