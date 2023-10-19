@@ -39,6 +39,8 @@
 </p>
 
 ## Plan to Learn
+<details>
+    <summary><b>More</b></summary>
 <p float="left">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
@@ -57,7 +59,11 @@
     <img src="https://img.shields.io/badge/Mojo-000000.svg?style=for-the-badge" alt="Mojo">
 </p>
 
+</details>
+
 ## Tools
+<details>
+    <summary><b>More</b></summary>
 <p float="left">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -70,7 +76,8 @@
     <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </p>
+</details>
 
 ---
 
-### Соборна українська є держава – Одна на вік, від Сяну по Кавказ!
+### 🇺🇦 Слава Україні! Героям Слава!
