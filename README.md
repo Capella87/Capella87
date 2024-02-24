@@ -73,8 +73,6 @@
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white">
     <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">
     <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 </details>
 
