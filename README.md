@@ -62,22 +62,6 @@
     <img src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white">
     <img src="https://img.shields.io/badge/Mojo-000000.svg?style=for-the-badge" alt="Mojo">
 </p>
-
-</details>
-
-## Tools
-<details>
-    <summary><b>More</b></summary>
-<p float="left">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=Intellij%20Idea&logoColor=white">
-    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=CLion&logoColor=white">
-    <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white">
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-</p>
 </details>
 
 ---
