@@ -61,6 +61,7 @@
     <img src="https://img.shields.io/badge/AutoHotKey-334455.svg?style=for-the-badge&logo=autohotkey&logoColor=white">
     <img src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white">
     <img src="https://img.shields.io/badge/Mojo-000000.svg?style=for-the-badge" alt="Mojo">
+    <img src="https://img.shields.io/badge/Bicep-266895.svg?style=for-the-badge" alt="Bicep">
 </p>
 </details>
 
