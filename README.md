@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Capella87&count_private=true?theme=radical&show_icons=true&theme=dark&hide_rank=false&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+# Capella87
 
 ## Tech Stacks
 ### Main
